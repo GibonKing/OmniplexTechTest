@@ -1,0 +1,1 @@
+(()=>{"use strict";chrome.action.onClicked.addListener((o=>{chrome.action.setPopup({popup:"Login.html"})}))})();
